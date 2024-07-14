@@ -31,7 +31,7 @@
 4. Quero me aprofundar nos métodos de arrays e entender como mesclar com outros métodos no código.
 5. Como posso fazer uma gestão de tempo que me faça produzir mais e com qualidade?
 6. Como me comportar profissionalmente em uma entrevista de emprego, e como demonstrar ter um perfil profissional para um recrutador?
-7. Gostaria de entender como posso construir uma estrutura ideal para o meu linkedin, que transmita para outros proffisionais o que busco na minha jornada.
+7. Gostaria de entender como posso construir uma estrutura ideal para o meu linkedin, que transmita para outros profissionais o que busco na minha jornada.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
